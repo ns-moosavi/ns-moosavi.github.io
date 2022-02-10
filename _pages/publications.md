@@ -31,6 +31,24 @@ author_profile: true
 
 **2018**
 
+- **Nafise Sadat Moosavi**, Michael Strube. 2018. [Using Linguistic Features to Improve the Generalization Capability of Neural Coreference Resolvers](https://aclanthology.org/D18-1018/). Proceedings of the 2018 Conference on Empirical Methods in Natural Language Processing.
+- Massimo Poesio, Yulia Grishina, Varada Kolhatkar, **Nafise Sadat Moosavi**, Ina Roesiger, Adam Roussel, Fabian Simonjetz, Alexandra Uma, Olga Uryupina, Juntao Yu, Heike Zinsmeister. 2018. [Anaphora Resolution with the ARRAU Corpus](https://aclanthology.org/W18-0702/). Proceedings of the First Workshop on Computational Models of Reference, Anaphora and Coreference.
+
+**2017**
+
+- Benjamin Heinzerling, **Nafise Sadat Moosavi**, Michael Strube. 2017. [Revisiting Selectional Preferences for Coreference Resolution](https://aclanthology.org/D17-1138/?ref=https://githubhelp.com). Proceedings of the 2017 Conference on Empirical Methods in Natural Language Processing.
+- **Nafise Sadat Moosavi**, Michael Strube. 2017. [Lexical Features in Coreference Resolution: To be Used With Caution](https://aclanthology.org/P17-2003/). Proceedings of the 55th Annual Meeting of the Association for Computational Linguistics (Volume 2: Short Papers).
+- **Nafise Sadat Moosavi**, Michael Strube. 2017. [Use Generalized Representations, But Do Not Forget Surface Features](https://aclanthology.org/W17-1501/). Proceedings of the 2nd Workshop on Coreference Resolution Beyond OntoNotes (CORBON 2017).
+
+**2016**
+
+- **Nafise Sadat Moosavi**, Michael Strube. 2016. [Which Coreference Evaluation Metric Do You Trust? A Proposal for a Link-based Entity Aware Metric](https://aclanthology.org/P16-1060/). Proceedings of the 54th Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers).
+- **Nafise Sadat Moosavi**, Michael Strube. 2016. [Search Space Pruning: A Simple Solution for Better Coreference Resolvers](https://aclanthology.org/N16-1115/). Proceedings of the 2016 Conference of the North American Chapter of the Association for Computational Linguistics: Human Language Technologies.
+
+**2014**
+
+- **Nafise Sadat Moosavi**, Michael Strube. 2014. [Unsupervised Coreference Resolution by Utilizing the Most Informative Relations](https://aclanthology.org/C14-1061/). Proceedings of COLING 2014, the 25th International Conference on Computational Linguistics: Technical Papers.
+
 
 
 **PhD Thesis**
