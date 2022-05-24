@@ -5,6 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 
+**2022**
+- **Nafise Sadat Moosavi**, Quentin Delfosse, Kristian Kersting, Iryna Gurevych. 2022. [Adaptable Adapters](https://arxiv.org/abs/2205.01549). Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
+- Prasetya Utama,  Joshua Bambrick, **Nafise Sadat Moosavi**, Iryna Gurevych. 2022. [Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization](https://arxiv.org/abs/2205.06009). Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
+- Juntao Yu, Sopan Khosla, **Nafise Sadat Moosavi**, Silviu Paun, Sameer Pradhan and Massimo Poesio. 2022. [The Universal Anaphora Scorer](https://github.com/juntaoy/universal-anaphora-scorer). LREC 2022.
+
 **2021**
 
 - **Nafise Sadat Moosavi**, Andreas Rücklé, Dan Roth, Iryna Gurevych. 2021. [SciGen: a Dataset for Reasoning-Aware Text Generation from Scientific Tables](https://openreview.net/forum?id=Jul-uX7EV_I). Proceedings of the Thirty-fifth Conference on Neural Information Processing Systems Datasets and Benchmarks Track (Round 2).
