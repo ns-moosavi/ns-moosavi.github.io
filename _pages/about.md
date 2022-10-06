@@ -18,6 +18,7 @@ Before joining the University of Sheffield, I was a postdoctoral researcher work
 
 News
 ------
+- October  2022: will serve as a senior area chair for the "Ethical and Sustainable NLP" at EACL 2023
 - August   2022: Our paper "[Layer or Representation Space: What makes BERT-based Metrics Robust?](https://arxiv.org/abs/2209.02317v1)" with Doan Nam Long Vu and Steffen Eger is accepted at COLING 2022
 - May      2022: will serve as an area chair for "Efficient Methods for NLP" at EMNLP 2022
 - April    2022: Our papers "[Adaptable Adapters](https://arxiv.org/abs/2205.01549)" with Quentin Delfosse, Kristian Kersting, and Iryna Gurevych and "[Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization](https://arxiv.org/abs/2205.06009)" with Prasetya Ajie Utama, Joshua Bambrick, and Iryna Gurevych are accepted at NAACL 2022
