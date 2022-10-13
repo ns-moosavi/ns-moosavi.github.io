@@ -16,6 +16,16 @@ Before joining the University of Sheffield, I was a postdoctoral researcher work
 
 
 
+Reseach Interests
+------
+If you are a self-funded Ph.D. student and would like to work with me, I am interested to work on evaluating and improving (1) fairness, (2) accessibility, (3) reasoning skills, and (4) efficiency of general-purpose language models. 
+Apart from these, I am interested to coreference resolution and interesting psycholinguistic analyses on Twitter data. 
+
+In Sheffield, we have many great academics who work on hate speech, fact-checking and fake news detection, but I am not one of them :) You can check my colleagues and their research interests [here](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing).
+
+If you are not self-funded, I don't currently have an open position, but you can instead apply for our [Center for Doctoral Training for Speech and Language Technologies](https://slt-cdt.sheffield.ac.uk/).
+
+
 News
 ------
 - October  2022: will serve as a senior area chair for the "Ethical and Sustainable NLP" at EACL 2023
