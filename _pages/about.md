@@ -9,10 +9,7 @@ redirect_from:
 ---
 
 I am a Lecturer (~Assistant Professor) in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield.
-
-I am interested in various areas of Natural Language Processing including coreference resolution, text generation, end-to-end reasoning, robustness and generalization, sustainability, and reliable evaluation. 
-
-Before joining the University of Sheffield, I was a postdoctoral researcher working with Prof. Iryna Gurevych at [the UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at the Technical University of Darmstadt. Before that, I got my PhD degree from Heidelberg University where I was supervised by Prof. Michael Strube.
+Before joining the University of Sheffield, I was a postdoctoral researcher working with Prof. Iryna Gurevych at [the UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at the Technical University of Darmstadt. I got my PhD degree from Heidelberg University where I was supervised by Prof. Michael Strube. I have studied at Alzahra University and the Sharif University of Technology in Tehran for my BSc and MSc in computer science. 
 
 
 
