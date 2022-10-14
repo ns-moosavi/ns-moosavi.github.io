@@ -29,6 +29,7 @@ If you are not self-funded, I don't currently have an open position, but you can
 News
 ------
 - October  2022: will serve as a senior area chair for the "Ethical and Sustainable NLP" at EACL 2023
+- Sep      2022: Our paper [Evaluating Coreference Resolvers on Community-based Question Answering: From Rule-based to State of the Art](https://aclanthology.org/2022.crac-1.7/) with Haixia Chai, Iryna Gurevych, and Michael Strube is accepted at the CRAC 2022 workshop. The paper ended up at a workshop, but if you are interested in coreference resolution, it is definitely worth a read
 - August   2022: Our paper "[Layer or Representation Space: What makes BERT-based Metrics Robust?](https://aclanthology.org/2022.coling-1.300/)" with Doan Nam Long Vu and Steffen Eger is accepted at COLING 2022
 - May      2022: will serve as an area chair for "Efficient Methods for NLP" at EMNLP 2022
 - April    2022: Our papers "[Adaptable Adapters](https://aclanthology.org/2022.naacl-main.274/)" with Quentin Delfosse, Kristian Kersting, and Iryna Gurevych and "[Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization](https://aclanthology.org/2022.naacl-main.199/)" with Prasetya Ajie Utama, Joshua Bambrick, and Iryna Gurevych are accepted at NAACL 2022
