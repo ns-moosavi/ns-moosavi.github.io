@@ -18,7 +18,7 @@ Before joining the University of Sheffield, I was a postdoctoral researcher work
 
 Reseach Interests
 ------
-If you are a self-funded Ph.D. student and would like to work with me, I am interested to work on evaluating and improving (1) fairness & robustness, (2) accessibility, (3) reasoning skills, and (4) efficiency of general-purpose language models. 
+If you are a self-funded Ph.D. student and would like to work with me, I am interested to work on evaluating and improving (1) fairness & robustness, (2) accessibility, (3) reasoning skills, and (4) efficiency of language models. 
 Apart from these, I am interested in coreference resolution and interesting psycholinguistic analyses on Twitter data. 
 
 In Sheffield, we have many great academics who work on hate speech, fact-checking and fake news detection, but I am not one of them :) You can check my colleagues and their research interests [here](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing).
