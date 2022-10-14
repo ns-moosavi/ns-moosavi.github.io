@@ -6,9 +6,11 @@ author_profile: true
 ---
 
 **2022**
-- **Nafise Sadat Moosavi**, Quentin Delfosse, Kristian Kersting, Iryna Gurevych. 2022. [Adaptable Adapters](https://arxiv.org/abs/2205.01549). Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
-- Prasetya Utama,  Joshua Bambrick, **Nafise Sadat Moosavi**, Iryna Gurevych. 2022. [Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization](https://arxiv.org/abs/2205.06009). Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
-- Juntao Yu, Sopan Khosla, **Nafise Sadat Moosavi**, Silviu Paun, Sameer Pradhan and Massimo Poesio. 2022. [The Universal Anaphora Scorer](https://github.com/juntaoy/universal-anaphora-scorer). LREC 2022.
+- Doan Nam Long Vu, **Nafise Sadat Moosavi**, Steffen Eger. 2022. [Layer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?](https://aclanthology.org/2022.coling-1.300/). Proceedings of the 29th International Conference on Computational Linguistics.
+- Haixia Chai, **Nafise Sadat Moosavi**, Iryna Gurevych, Michael Strube. 2022. [Evaluating Coreference Resolvers on Community-based Question Answering: From Rule-based to State of the Art](https://aclanthology.org/2022.crac-1.7/). Proceedings of the Fifth Workshop on Computational Models of Reference, Anaphora and Coreference.
+- **Nafise Sadat Moosavi**, Quentin Delfosse, Kristian Kersting, Iryna Gurevych. 2022. [Adaptable Adapters](https://aclanthology.org/2022.naacl-main.274/). Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
+- Prasetya Utama,  Joshua Bambrick, **Nafise Sadat Moosavi**, Iryna Gurevych. 2022. [Falsesum: Generating Document-level NLI Examples for Recognizing Factual Inconsistency in Summarization](https://aclanthology.org/2022.naacl-main.199/). Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
+- Juntao Yu, Sopan Khosla, **Nafise Sadat Moosavi**, Silviu Paun, Sameer Pradhan and Massimo Poesio. 2022. [The Universal Anaphora Scorer](https://aclanthology.org/2022.lrec-1.521/). Proceedings of the Thirteenth Language Resources and Evaluation Conference.
 
 **2021**
 
