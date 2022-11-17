@@ -24,7 +24,7 @@ If you are not self-funded, I don't currently have an open position, but you can
 News
 ------
 - Nov 2022: will be serving an an editorial board for the [Northern European Journal of Language Technology (NEJLT)](https://www.nejlt.org)
-- Vov 2022: gave an invited talk about "Learnable Activation Functions in Transformer-based Architectures" at the Computer Science Department of Royal Holloway, University of London (RHUL). The talk was summerizing [Transformers with Learnable Activation Functions](https://arxiv.org/abs/2208.14111) and [Adaptable Adapters](https://aclanthology.org/2022.naacl-main.274/) papers
+- Nov 2022: gave an invited talk about "Learnable Activation Functions in Transformer-based Architectures" at the Computer Science Department of Royal Holloway, University of London (RHUL). The talk was summerizing [Transformers with Learnable Activation Functions](https://arxiv.org/abs/2208.14111) and [Adaptable Adapters](https://aclanthology.org/2022.naacl-main.274/) papers
 - Oct 2022: [Layer or Representation Space: What makes BERT-based Metrics Robust?](https://aclanthology.org/2022.coling-1.300/) is selected as an outstanding paper at COLING 2022
 - Oct  2022: will serve as a senior area chair for the "Ethical and Sustainable NLP" at EACL 2023
 - Sep      2022: Our paper [Evaluating Coreference Resolvers on Community-based Question Answering: From Rule-based to State of the Art](https://aclanthology.org/2022.crac-1.7/) with Haixia Chai, Iryna Gurevych, and Michael Strube is accepted at the CRAC 2022 workshop. The paper ended up at a workshop, but if you are interested in coreference resolution, it is definitely worth a read
