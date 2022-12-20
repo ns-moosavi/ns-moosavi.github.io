@@ -18,6 +18,8 @@ Topic: Exploring Bias Mitigation Approaches on Culturally Influenced Abuse on Cr
 
 Topic: Continual learning in dialogue
 
+- Yiqi Liu (co-supervising with Chenghua Lin)
+
 
 **Former Students**
 - [Prasetya Ajie Utama](https://putama.github.io/) (Co-supervised with Iryna Gurevych, now research engineer at Bloomberg)
