@@ -23,6 +23,7 @@ If you are not self-funded, I don't currently have an open position, but you can
 
 News
 ------
+- Jan 2023: two papers accepted at EACL: "Transformers with Learnable Activation Functions" with Haishuo Fang, Ji-Ung Lee, and Iryna Gurevych accepted at findings, and "Lessons Learned from a Citizen Science Project for Natural Language Processing" with Jan-Christoph Klie, Ji-Ung Lee, Kevin Stowe, Gözde Şahin, Luke Bates, Dominic Petrak, Richard Eckart de Castilho and Iryna Gurevych accepted at main
 - Dec 2022: will serve as an area chair for the ACL2023 "Discourse and Pragmatics" track
 - Nov 2022: will be serving as an editorial board member for the [Northern European Journal of Language Technology (NEJLT)](https://www.nejlt.org)
 - Nov 2022: gave an invited talk about "Learnable Activation Functions in Transformer-based Architectures" at the Computer Science Department of Royal Holloway, University of London (RHUL). The talk was summerizing [Transformers with Learnable Activation Functions](https://arxiv.org/abs/2208.14111) and [Adaptable Adapters](https://aclanthology.org/2022.naacl-main.274/) papers
