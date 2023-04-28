@@ -6,20 +6,18 @@ author_profile: true
 ---
 
 **Current PhD Students**
-- [Jasivan Sivakumar](https://scholar.google.com/citations?user=TTE71A8AAAAJ)
+- [Jasivan Sivakumar](https://scholar.google.com/citations?user=TTE71A8AAAAJ): End-to-end Arithmetic Reasoning in NLP
 
-    Topic: End-to-end Arithmetic Reasoning in NLP
+- [Mugdha Pandya](https://scholar.google.com/citations?user=bzU8NIUAAAAJ) (co-supervising with Diana Maynard): Exploring Bias Mitigation Approaches on Culturally Influenced Abuse on Cross-Lingual Indian Social Media
 
-- [Mugdha Pandya](https://scholar.google.com/citations?user=bzU8NIUAAAAJ) (co-supervising with Diana Maynard)
+- [Dominic Petrak](https://www.dominicpetrak.de/) (co-supervising with Iryna Gurevych): Continual learning in dialogue
 
-    Topic: Exploring Bias Mitigation Approaches on Culturally Influenced Abuse on Cross-Lingual Indian Social Media
+- Yiqi Liu (co-supervising with Chenghua Lin): NLG Evaluation
 
-- [Dominic Petrak](https://www.dominicpetrak.de/) (co-supervising with Iryna Gurevych)
+- Hend TM Elghazaly (co-supervising with Heidi Christensen): Fairness in Speech Processing
 
-    Topic: Continual learning in dialogue
-
-- Yiqi Liu (co-supervising with Chenghua Lin)
-- Hend TM Elghazaly (co-supervision with Heidi Christensen)
+- [Valeria Pastorino](https://www.researchgate.net/profile/Valeria-Pastorino): Multimodal Multilingual Framing Bias Detection
+    
 
 
 **Former Students**
