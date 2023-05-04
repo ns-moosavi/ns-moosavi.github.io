@@ -5,7 +5,13 @@ permalink: /publications/
 author_profile: true
 ---
 
+**2023**
+
+- Jan-Christoph Klie, Ji-Ung Lee, Kevin Stowe, Gözde Şahin, **Nafise Sadat Moosavi**, Luke Bates, Dominic Petrak, Richard Eckart De Castilho, Iryna Gurevych. 2023. [Lessons Learned from a Citizen Science Project for Natural Language Processing](https://aclanthology.org/2023.eacl-main.261/). Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics.
+- Haishuo Fang, Ji-Ung Lee, **Nafise Sadat Moosavi**, Iryna Gurevych. 2023. [Transformers with Learnable Activation Functions](https://aclanthology.org/2023.findings-eacl.181/). Findings of the Association for Computational Linguistics: EACL 2023.
+
 **2022**
+
 - Doan Nam Long Vu, **Nafise Sadat Moosavi**, Steffen Eger. 2022. [Layer or Representation Space: What Makes BERT-based Evaluation Metrics Robust?](https://aclanthology.org/2022.coling-1.300/). Proceedings of the 29th International Conference on Computational Linguistics.
 - Haixia Chai, **Nafise Sadat Moosavi**, Iryna Gurevych, Michael Strube. 2022. [Evaluating Coreference Resolvers on Community-based Question Answering: From Rule-based to State of the Art](https://aclanthology.org/2022.crac-1.7/). Proceedings of the Fifth Workshop on Computational Models of Reference, Anaphora and Coreference.
 - **Nafise Sadat Moosavi**, Quentin Delfosse, Kristian Kersting, Iryna Gurevych. 2022. [Adaptable Adapters](https://aclanthology.org/2022.naacl-main.274/). Proceedings of the 2022 Annual Conference of the North American Chapter of the Association for Computational Linguistics.
