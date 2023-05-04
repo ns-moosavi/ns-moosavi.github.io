@@ -23,7 +23,9 @@ If you are not self-funded, I don't currently have an open position, but you can
 
 News
 ------
-- Jan 2023: two papers accepted at EACL: "Transformers with Learnable Activation Functions" with Haishuo Fang, Ji-Ung Lee, and Iryna Gurevych accepted at findings, and "Lessons Learned from a Citizen Science Project for Natural Language Processing" with Jan-Christoph Klie, Ji-Ung Lee, Kevin Stowe, Gözde Şahin, Luke Bates, Dominic Petrak, Richard Eckart de Castilho and Iryna Gurevych accepted at main
+- May 2023: Jasivan's first PhD work "FERMAT: An Alternative to Accuracy for Numerical Reasoning" is accepted at ACL as a long paper
+- April 2023: "The Universal Anaphora Scorer 2.0" with Juntao Yu, Michal Novák, Abdulrahman Aloraini, Silviu Paun, Sameer Pradhan and Massimo Poesiois is accepted at IWCS 2023
+- Jan 2023: two papers accepted at EACL: "[Transformers with Learnable Activation Functions](https://aclanthology.org/2023.findings-eacl.181/)" with Haishuo Fang, Ji-Ung Lee, and Iryna Gurevych accepted at findings, and "[Lessons Learned from a Citizen Science Project for Natural Language Processing](https://aclanthology.org/2023.eacl-main.261/)" with Jan-Christoph Klie, Ji-Ung Lee, Kevin Stowe, Gözde Şahin, Luke Bates, Dominic Petrak, Richard Eckart de Castilho and Iryna Gurevych accepted at main
 - Dec 2022: will serve as an area chair for the ACL2023 "Discourse and Pragmatics" track
 - Nov 2022: will be serving as an editorial board member for the [Northern European Journal of Language Technology (NEJLT)](https://www.nejlt.org)
 - Nov 2022: gave an invited talk about "Learnable Activation Functions in Transformer-based Architectures" at the Computer Science Department of Royal Holloway, University of London (RHUL). The talk was summerizing [Transformers with Learnable Activation Functions](https://arxiv.org/abs/2208.14111) and [Adaptable Adapters](https://aclanthology.org/2022.naacl-main.274/) papers
