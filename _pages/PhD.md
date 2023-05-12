@@ -17,6 +17,7 @@ author_profile: true
 - Hend TM Elghazaly (co-supervising with Heidi Christensen): Fairness in Speech Processing
 
 - [Valeria Pastorino](https://www.researchgate.net/profile/Valeria-Pastorino): Multimodal Multilingual Framing Bias Detection
+- Joseph James (co-supervising with Chenghua Lin): Data-driven and Discourse-aware Scientific Text Generation
     
 
 
