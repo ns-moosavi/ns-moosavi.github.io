@@ -23,7 +23,8 @@ If you are not self-funded, I don't currently have an open position, but you can
 
 News
 ------
-- June 2023: will be serving as a workshop co-chair for EACL 2023 
+- June 2023: will serve as an area chair of the "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc." trackat EMNLP 2023
+- June 2023: will serve as a workshop co-chair for EACL 2024 
 - June 2023: gave a talk on end-to-end reasoning at Bristol
 - June 2023: Dominic's paper on "[Arithmetic-Based Pretraining -- Improving Numeracy of Pretrained Language Models](https://arxiv.org/abs/2205.06733)" is accepted at *SEM
 - May 2023: Jasivan's first PhD work "[FERMAT: An Alternative to Accuracy for Numerical Reasoning](https://arxiv.org/abs/2305.17491)" is accepted at ACL as a long paper
