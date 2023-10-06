@@ -18,8 +18,6 @@ Reseach Interests
 If you are a self-funded Ph.D. student and would like to work with me, I am interested to work on evaluating and improving (1) fairness & robustness, (2) accessibility, (3) reasoning skills, and (4) efficiency of language models. 
 Apart from these, I am interested in coreference resolution and interesting psycholinguistic analyses on Twitter data. 
 
-If you are not self-funded, I don't currently have an open position, but you can instead apply for our [Center for Doctoral Training for Speech and Language Technologies](https://slt-cdt.sheffield.ac.uk/).
-
 
 News
 ------
