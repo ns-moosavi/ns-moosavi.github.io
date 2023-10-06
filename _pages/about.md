@@ -23,6 +23,9 @@ If you are not self-funded, I don't currently have an open position, but you can
 
 News
 ------
+- Oct 2023:  invited talk at OFAI's (Austrian Research Institute for AI) 2023 Fall Lecture Series
+- Oct 2023:  Our paper "[Scoring Coreference Chains with Split-Antecedent Anaphors](https://journals.uic.edu/ojs/index.php/dad/article/view/12660)", with my amazing co-authors Massimo, Juntao, and Silviu, is published at the Dialogue and Discourse journal
+- Nov 2023:  will serve as an area chair for the Lexicon and Semantics track at LREC-COLING 2024
 - June 2023: will serve as an area chair of the "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc." trackat EMNLP 2023
 - June 2023: will serve as a workshop co-chair for EACL 2024 
 - June 2023: gave a talk on end-to-end reasoning at Bristol
