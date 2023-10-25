@@ -21,6 +21,8 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 News
 ------
+- Oct 2023: joining the EMNLP2023's Awards Committee for deciding the best papers of the conference
+- Oct 2023: Dominic's paper "[Learning From Free-Text Human Feedback -- Collect New Datasets Or Extend Existing Ones?][https://arxiv.org/abs/2310.15758]", with Ye Tian, Nikolai Rozanov, Iryna Gurevych is accepted at EMNLP 2023
 - Oct 2023:  invited talk at OFAI's (Austrian Research Institute for AI) 2023 Fall Lecture Series
 - Oct 2023:  Our paper "[Scoring Coreference Chains with Split-Antecedent Anaphors](https://journals.uic.edu/ojs/index.php/dad/article/view/12660)", with my amazing co-authors Massimo, Juntao, and Silviu, is published at the Dialogue and Discourse journal
 - Nov 2023:  will serve as an area chair for the Lexicon and Semantics track at LREC-COLING 2024
