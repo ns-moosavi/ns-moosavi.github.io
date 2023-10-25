@@ -16,11 +16,12 @@ Before joining the University of Sheffield, I was a postdoctoral researcher work
 Reseach Interests
 ------
 If you are a self-funded Ph.D. student and would like to work with me, I am interested to work on evaluating and improving (1) fairness & robustness, (2) accessibility, (3) reasoning skills, and (4) efficiency of language models. 
-Apart from these, I am interested in coreference resolution and interesting psycholinguistic analyses on Twitter data. 
+Apart from these, I am interested in coreference resolution and interesting psycholinguistic analyses of text ot multimodal inputs. 
 
 
 News
 ------
+- Oct: [Ajie](https://putama.github.io/), my first PhD student, co-supervised with Iryna Gurevych, defended his thesis. I am very proud of him and his work and wish him all the best.
 - Oct 2023: joining the EMNLP2023's Awards Committee for deciding the best papers of the conference
 - Oct 2023: Dominic's paper "[Learning From Free-Text Human Feedback -- Collect New Datasets Or Extend Existing Ones?][https://arxiv.org/abs/2310.15758]", with Ye Tian, Nikolai Rozanov, Iryna Gurevych is accepted at EMNLP 2023
 - Oct 2023:  invited talk at OFAI's (Austrian Research Institute for AI) 2023 Fall Lecture Series
