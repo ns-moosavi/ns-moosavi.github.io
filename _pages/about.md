@@ -7,10 +7,9 @@ redirect_from:
   - /about/
   - /about.html
 ---
-#
 
 <div style="text-align: center; margin-bottom: 80px;">
-  <img src="BesmAllah.png" alt="BesmAllah" style="max-width: 30%; height: auto;">
+  <img src="BesmAllah.png" alt="BesmAllah" style="max-width: 50%; height: auto;">
 </div>
 
 
