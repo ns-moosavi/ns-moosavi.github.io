@@ -7,8 +7,12 @@ author_profile: true
 
 **2023**
 
-- Jan-Christoph Klie, Ji-Ung Lee, Kevin Stowe, Gözde Şahin, **Nafise Sadat Moosavi**, Luke Bates, Dominic Petrak, Richard Eckart De Castilho, Iryna Gurevych. 2023. [Lessons Learned from a Citizen Science Project for Natural Language Processing](https://aclanthology.org/2023.eacl-main.261/). Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics.
-- Haishuo Fang, Ji-Ung Lee, **Nafise Sadat Moosavi**, Iryna Gurevych. 2023. [Transformers with Learnable Activation Functions](https://aclanthology.org/2023.findings-eacl.181/). Findings of the Association for Computational Linguistics: EACL 2023.
+-  Silviu Paun, Juntao Yu, **Nafise Sadat Moosavi**, Massimo Poesio. 2023. [Scoring Coreference Chains with Split-Antecedent Anaphors][https://journals.uic.edu/ojs/index.php/dad/article/view/12660]. Dialogue and Discourse, 14(2), 1-48.
+- Jasivan Sivakumar and **Nafise Sadat Moosavi**. 2023. [FERMAT: An Alternative to Accuracy for Numerical Reasoning](https://aclanthology.org/2023.acl-long.838/). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 15026–15043, Toronto, Canada. Association for Computational Linguistics. 
+- Dominic Petrak, **Nafise Sadat Moosavi**, and Iryna Gurevych. 2023. [Arithmetic-Based Pretraining Improving Numeracy of Pretrained Language Models](https://aclanthology.org/2023.starsem-1.42/). In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 477–493, Toronto, Canada. Association for Computational Linguistics.
+- **Nafise Sadat Moosavi**, Iryna Gurevych, Yufang Hou, Gyuwan Kim, Young Jin Kim, Tal Schuster, and Ameeta Agrawal. 2023. [Proceedings of The Fourth Workshop on Simple and Efficient Natural Language Processing (SustaiNLP)](https://aclanthology.org/2023.sustainlp-1.0/). Association for Computational Linguistics, Toronto, Canada (Hybrid), edition.
+- Jan-Christoph Klie, Ji-Ung Lee, Kevin Stowe, Gözde Şahin, **Nafise Sadat Moosavi**, Luke Bates, Dominic Petrak, Richard Eckart De Castilho, Iryna Gurevych. 2023. [Lessons Learned from a Citizen Science Project for Natural Language Processing](https://aclanthology.org/2023.eacl-main.261/). In Proceedings of the 17th Conference of the European Chapter of the Association for Computational Linguistics, pages 3594–3608, Dubrovnik, Croatia. Association for Computational Linguistics
+- Haishuo Fang, Ji-Ung Lee, **Nafise Sadat Moosavi**, Iryna Gurevych. 2023. [Transformers with Learnable Activation Functions](https://aclanthology.org/2023.findings-eacl.181/). In Findings of the Association for Computational Linguistics: EACL 2023, pages 2382–2398, Dubrovnik, Croatia. Association for Computational Linguistics.
 
 **2022**
 
