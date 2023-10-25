@@ -7,6 +7,13 @@ redirect_from:
   - /about/
   - /about.html
 ---
+#
+
+<div style="text-align: center; margin-bottom: 80px;">
+  <img src="BesmAllah.png" alt="BesmAllah" style="max-width: 30%; height: auto;">
+</div>
+
+
 
 I am a Lecturer (~Assistant Professor) in [Natural Language Processing](https://www.sheffield.ac.uk/dcs/research/groups/natural-language-processing) at the Computer Science Department of the University of Sheffield.
 Before joining the University of Sheffield, I was a postdoctoral researcher working with Prof. Iryna Gurevych at [the UKP Lab](https://www.informatik.tu-darmstadt.de/ukp/ukp_home/index.en.jsp) at the Technical University of Darmstadt. I got my PhD degree from Heidelberg University where I was supervised by Prof. Michael Strube. I have studied at Alzahra University and the Sharif University of Technology in Tehran for my BSc and MSc in computer science. 
