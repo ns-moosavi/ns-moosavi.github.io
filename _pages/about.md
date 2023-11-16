@@ -27,6 +27,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 News
 ------
+- Nov: Invited talk at Cambridge NLP seminar series
 - Oct: [Ajie](https://putama.github.io/), my first PhD student, co-supervised with Iryna Gurevych, defended his thesis. I am very proud of him and his work and wish him all the best.
 - Oct 2023: joining the EMNLP2023's Awards Committee for deciding the best papers of the conference
 - Oct 2023: Dominic's paper "[Learning From Free-Text Human Feedback -- Collect New Datasets Or Extend Existing Ones?](https://arxiv.org/abs/2310.15758)", with Ye Tian, Nikolai Rozanov, Iryna Gurevych is accepted at EMNLP 2023
