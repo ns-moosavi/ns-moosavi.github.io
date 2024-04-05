@@ -27,8 +27,9 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 News
 ------
+- April: will serve as a Senior Area Chair for EMNLP2024
 - Feb 2024: will serve as an Area chair/Action editor for ACL 2024, and the student volunteer teams co-chair for EMNLP 2024
-- Dec 2023: Zahra's paper on "Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales" co-authored with Taher Pilehvar is accepted at AAAI 2024. Zahra is a brilliant undergraduate student at the Tehran Institute for Advanced Studies in Iran
+- Dec 2023: Zahra's paper on "[Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales](https://ojs.aaai.org/index.php/AAAI/article/view/29743)" co-authored with Taher Pilehvar is accepted at AAAI 2024. Zahra is a brilliant undergraduate student at the Tehran Institute for Advanced Studies in Iran
 - Nov: Invited talk at Cambridge NLP seminar series
 - Oct: [Ajie](https://putama.github.io/), my first PhD student, co-supervised with Iryna Gurevych, defended his thesis. I am very proud of him and his work and wish him all the best.
 - Oct 2023: joining the EMNLP2023's Awards Committee for deciding the best papers of the conference
