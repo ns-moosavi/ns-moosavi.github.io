@@ -4,9 +4,16 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**2024**
+- Yiqi Liu, **Nafise Sadat Moosavi**, and Chenghua Lin. 2024. [LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores](https://arxiv.org/abs/2311.09766). In Findings of the Association for Computational Linguistics: ACL 2024, pages 2345-2357. Association for Computational Linguistics. https://arxiv.org/abs/2311.09766.
+- Zahra Delbari, **Nafise Sadat Moosavi**, and Mohammad Taher Pilehvar. 2024. [Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales](https://ojs.aaai.org/index.php/AAAI/article/view/29743). In Proceedings of the 2024 AAAI Conference on Artificial Intelligence, pages 17889–17897. Association for the Advancement of Artificial Intelligence. 
+- Massimo Poesio, Maciej Ogrodniczuk, Vincent Ng, Sameer Pradhan, Juntao Yu, **Nafise Sadat Moosavi**, Silviu Paun, Amir Zeldes, Anna Nedoluzhko, Michal Novák, Martin Popel, Zdeněk Žabokrtský, and Daniel Zeman. 2024. [Universal Anaphora: The First Three Years](https://aclanthology.org/2024.lrec-main.1484/). In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 17087–17100, Torino, Italia. ELRA and ICCL.
+
 
 **2023**
 
+-  **Nafise Sadat Moosavi**, Iryna Gurevych, Yufang Hou, Gyuwan Kim, Young Jin Kim, Tal Schuster, and Ameeta Agrawal. 2023. [Proceedings of The Fourth Workshop on Simple and Efficient Natural Language Processing (SustaiNLP)](https://aclanthology.org/2023.sustainlp-1.0/). Association for Computational Linguistics, Toronto, Canada (Hybrid), edition.
+- Dominic Petrak, **Nafise Moosavi**, Ye Tian, Nikolai Rozanov, and Iryna Gurevych. 2023. [Learning From Free-Text Human Feedback – Collect New Datasets Or Extend Existing Ones?](https://aclanthology.org/2023.emnlp-main.1011/). In Proceedings of the 2023 Conference on Empirical Methods in Natural Language Processing, pages 16259–16279, Singapore. Association for Computational Linguistics.
 -  Silviu Paun, Juntao Yu, **Nafise Sadat Moosavi**, Massimo Poesio. 2023. [Scoring Coreference Chains with Split-Antecedent Anaphors](https://journals.uic.edu/ojs/index.php/dad/article/view/12660). Dialogue and Discourse, 14(2), 1-48.
 - Jasivan Sivakumar and **Nafise Sadat Moosavi**. 2023. [FERMAT: An Alternative to Accuracy for Numerical Reasoning](https://aclanthology.org/2023.acl-long.838/). In Proceedings of the 61st Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 15026–15043, Toronto, Canada. Association for Computational Linguistics. 
 - Dominic Petrak, **Nafise Sadat Moosavi**, and Iryna Gurevych. 2023. [Arithmetic-Based Pretraining Improving Numeracy of Pretrained Language Models](https://aclanthology.org/2023.starsem-1.42/). In Proceedings of the 12th Joint Conference on Lexical and Computational Semantics (*SEM 2023), pages 477–493, Toronto, Canada. Association for Computational Linguistics.
