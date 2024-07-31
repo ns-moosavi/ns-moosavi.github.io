@@ -25,23 +25,52 @@ If you are a self-funded Ph.D. student and would like to work with me, I am inte
 Apart from these, I am interested in coreference resolution and interesting psycholinguistic analyses of text ot multimodal inputs. 
 
 
-News
-------
-- April: will serve as a Senior Area Chair for EMNLP2024
-- Feb 2024: will serve as an Area chair/Action editor for ACL 2024, and the student volunteer teams co-chair for EMNLP 2024
-- Dec 2023: Zahra's paper on "[Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales](https://ojs.aaai.org/index.php/AAAI/article/view/29743)" co-authored with Taher Pilehvar is accepted at AAAI 2024. Zahra is a brilliant undergraduate student at the Tehran Institute for Advanced Studies in Iran
-- Nov: Invited talk at Cambridge NLP seminar series
-- Oct: [Ajie](https://putama.github.io/), my first PhD student, co-supervised with Iryna Gurevych, defended his thesis. I am very proud of him and his work and wish him all the best.
-- Oct 2023: joining the EMNLP2023's Awards Committee for deciding the best papers of the conference
-- Oct 2023: Dominic's paper "[Learning From Free-Text Human Feedback -- Collect New Datasets Or Extend Existing Ones?](https://arxiv.org/abs/2310.15758)", with Ye Tian, Nikolai Rozanov, Iryna Gurevych is accepted at EMNLP 2023
-- Oct 2023:  invited talk at OFAI's (Austrian Research Institute for AI) 2023 Fall Lecture Series
-- Oct 2023:  Our paper "[Scoring Coreference Chains with Split-Antecedent Anaphors](https://journals.uic.edu/ojs/index.php/dad/article/view/12660)", with my amazing co-authors Massimo, Juntao, and Silviu, is published at the Dialogue and Discourse journal
-- Nov 2023:  will serve as an area chair for the Lexicon and Semantics track at LREC-COLING 2024
-- June 2023: will serve as an area chair of the "Semantics: Lexical, Sentence level, Document Level, Textual Inference, etc." trackat EMNLP 2023
-- June 2023: will serve as a workshop co-chair for EACL 2024 
-- June 2023: gave a talk on end-to-end reasoning at Bristol
-- June 2023: Dominic's paper on "[Arithmetic-Based Pretraining -- Improving Numeracy of Pretrained Language Models](https://arxiv.org/abs/2205.06733)" is accepted at *SEM
-- May 2023: Jasivan's first PhD work "[FERMAT: An Alternative to Accuracy for Numerical Reasoning](https://arxiv.org/abs/2305.17491)" is accepted at ACL as a long paper
-- April 2023: "The Universal Anaphora Scorer 2.0" with Juntao Yu, Michal Novák, Abdulrahman Aloraini, Silviu Paun, Sameer Pradhan and Massimo Poesiois is accepted at IWCS 2023
-- Jan 2023: two papers accepted at EACL: "[Transformers with Learnable Activation Functions](https://aclanthology.org/2023.findings-eacl.181/)" with Haishuo Fang, Ji-Ung Lee, and Iryna Gurevych accepted at findings, and "[Lessons Learned from a Citizen Science Project for Natural Language Processing](https://aclanthology.org/2023.eacl-main.261/)" with Jan-Christoph Klie, Ji-Ung Lee, Kevin Stowe, Gözde Şahin, Luke Bates, Dominic Petrak, Richard Eckart de Castilho and Iryna Gurevych accepted at main
+<h2>Academic Service</h2>
 
+<h3>Senior Area Chair</h3>
+<ul>
+  <li>ACL 2025: Ethics, Bias, and Fairness</li>
+  <li>COLING 2025: Language Resources and Evaluation</li>
+  <li>EMNLP 2024: Special Theme: Efficiency in Model Algorithms, Training, and Inference</li>
+  <li>EACL 2023: Ethical and Sustainable NLP</li>
+  <li>NAACL 2022: Discourse and Pragmatics</li>
+</ul>
+
+<h3>Area Chair</h3>
+<ul>
+  <li>ACL 2024 (Efficiency), LREC-COLING 2024 (Lexicon and Semantics)</li>
+  <li>EMNLP 2023 (Semantics: Lexical, Sentence Level, Document Level, Textual Inference), ACL 2023 (Discourse and Pragmatics)  </li>
+  <li>EMNLP 2022 (Efficient Methods for NLP) </li>
+</ul>
+
+<h3>Workshop Organization</h3>
+<ul>
+  <li>Workshop co-chair for EACL 2024</li>
+<li>Co-ordinator and co-organizer of SustaiNLP workshop series: 
+  <a href="https://sites.google.com/view/sustainlp2023">SustaiNLP 2023</a>, 
+  <a href="https://sites.google.com/view/sustainlp2022">SustaiNLP 2022</a>, 
+  <a href="https://sites.google.com/view/sustainlp2021">SustaiNLP 2021</a>, 
+  <a href="https://sites.google.com/view/sustainlp2020">SustaiNLP 2020</a>
+</li>
+</ul>
+
+
+<h3>Invited Talks</h3>
+<ul>
+  <li>June 2024: 3rd Cardiff NLP Summer Workshop</li> 
+  <li>Nov 2023: Cambridge NLP seminar series</li>
+  <li>Oct 2023: OFAI's (Austrian Research Institute for AI) 2023 Fall Lecture Series</li>
+  <li>June 2023: Interactive AI CDT in Bristol</li>
+  <li>Dec 2022: CS Department at TeIAS, Tehran, Iran </li>
+  <li>Nov 2022: Computer Science Department of Royal Holloway University of London (RHUL)</li>
+  <li>Nov 2021: Computer Science Department of Royal Holloway University of London (RHUL)</li>
+  
+</ul>
+
+<h3>Other Roles</h3>
+<ul>
+  <li>Student volunteer teams co-chair for EMNLP 2024</li>
+  <li> Best paper award committee for EMNLP 2023</li>
+  <li>Standing Reviewer for the Computational Linguistics Journal</li>
+  <li>Editorial Board Member for the Northern European Journal of Language Technology (NEJLT)</li>
+</ul>
