@@ -4,8 +4,14 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**2025**
+- Maggie Mi, Aline Villavicencio, **Nafise Sadat Moosavi**. [Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context](https://arxiv.org/abs/2410.16069). In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics.
+- Mohammadamin Shafiei, Hamidreza Saffari, **Nafise Sadat Moosavi**. MultiHoax: A Dataset of Multi-hop False-Premise Questions. In Findings of the Association for Computational Linguistics: ACL 2025. 
+- Jasivan Alex Sivakumar, and **Nafise Sadat Moosavi**. [How to Leverage Digit Embeddings to Represent Numbers?](https://aclanthology.org/2025.coling-main.514/). In Proceedings of the 31st International Conference on Computational Linguistics, pages 7685–7697, Abu Dhabi, UAE. Association for Computational Linguistics.
+
+  
 **2024**
-- Yiqi Liu, **Nafise Sadat Moosavi**, and Chenghua Lin. 2024. [LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores](https://arxiv.org/abs/2311.09766). In Findings of the Association for Computational Linguistics: ACL 2024, pages 2345-2357. Association for Computational Linguistics. https://arxiv.org/abs/2311.09766.
+- Yiqi Liu, **Nafise Sadat Moosavi**, and Chenghua Lin. 2024. [LLMs as Narcissistic Evaluators: When Ego Inflates Evaluation Scores](https://aclanthology.org/2024.findings-acl.753/). In Findings of the Association for Computational Linguistics: ACL 2024, pages 12688–12701, Bangkok, Thailand. Association for Computational Linguistics.
 - Zahra Delbari, **Nafise Sadat Moosavi**, and Mohammad Taher Pilehvar. 2024. [Spanning the Spectrum of Hatred Detection: A Persian Multi-Label Hate Speech Dataset with Annotator Rationales](https://ojs.aaai.org/index.php/AAAI/article/view/29743). In Proceedings of the 2024 AAAI Conference on Artificial Intelligence, pages 17889–17897. Association for the Advancement of Artificial Intelligence. 
 - Massimo Poesio, Maciej Ogrodniczuk, Vincent Ng, Sameer Pradhan, Juntao Yu, **Nafise Sadat Moosavi**, Silviu Paun, Amir Zeldes, Anna Nedoluzhko, Michal Novák, Martin Popel, Zdeněk Žabokrtský, and Daniel Zeman. 2024. [Universal Anaphora: The First Three Years](https://aclanthology.org/2024.lrec-main.1484/). In Proceedings of the 2024 Joint International Conference on Computational Linguistics, Language Resources and Evaluation (LREC-COLING 2024), pages 17087–17100, Torino, Italia. ELRA and ICCL.
 
