@@ -57,7 +57,10 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 <h3>Invited Talks</h3>
 <ul>
-  <li>June 2024: 3rd Cardiff NLP Summer Workshop</li> 
+  <li>Jan 2025: Language Technology Lab Seminar, University of Cambridge (Between the Lines: Contextual Understanding and Bias in LLMs
+)</li>
+  <li>June 2024: 3rd Cardiff NLP Summer Workshop (Numbers in the Mist: Towards Accurate Numerical Understanding in LMs
+)</li> 
   <li>Nov 2023: Cambridge NLP seminar series</li>
   <li>Oct 2023: OFAI's (Austrian Research Institute for AI) 2023 Fall Lecture Series</li>
   <li>June 2023: Interactive AI CDT in Bristol</li>
