@@ -5,8 +5,11 @@ permalink: /publications/
 author_profile: true
 ---
 **2025**
-- Maggie Mi, Aline Villavicencio, **Nafise Sadat Moosavi**. [Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context](https://arxiv.org/abs/2410.16069). In Proceedings of the 63nd Annual Meeting of the Association for Computational Linguistics.
-- Mohammadamin Shafiei, Hamidreza Saffari, **Nafise Sadat Moosavi**. MultiHoax: A Dataset of Multi-hop False-Premise Questions. In Findings of the Association for Computational Linguistics: ACL 2025. 
+- Hamidreza Saffari, Mohammadamin Shafiei, Hezhao Zhang, Lasana T. Harris, **Nafise Sadat Moosavi**. 2025. [Beyond Hate Speech: NLP’s Challenges and Opportunities in Uncovering Dehumanizing Language](https://arxiv.org/abs/2402.13818). The 2025 Conference on Empirical Methods in Natural Language Processing.
+- Maggie Mi, Aline Villavicencio, **Nafise Sadat Moosavi**. 2025. From Input Perception to Predictive Insight: Modeling Model Blind Spots Before They Become Errors. The 2025 Conference on Empirical Methods in Natural Language Processing.
+- Hend ElGhazaly, Bahman Mirheidari, Heidi Christensen, **Nafise Sadat Moosavi**. 2025. Fairness in ASR Isn't a One-Size-Fits-All. Findings of EMNLP 2025.
+- Maggie Mi, Aline Villavicencio, **Nafise Sadat Moosavi**. 2025. [Rolling the DICE on Idiomaticity: How LLMs Fail to Grasp Context](https://aclanthology.org/2025.acl-long.362/). In Proceedings of the 63rd Annual Meeting of the Association for Computational Linguistics (Volume 1: Long Papers), pages 7314–7332, Vienna, Austria. Association for Computational Linguistics.
+- Mohammadamin Shafiei, Hamidreza Saffari, **Nafise Sadat Moosavi**. 2025. [MultiHoax: A Dataset of Multi-hop False-Premise Questions](https://aclanthology.org/2025.findings-acl.530/).In Findings of the Association for Computational Linguistics: ACL 2025, pages 10169–10187, Vienna, Austria. Association for Computational Linguistics.
 - Jasivan Alex Sivakumar, and **Nafise Sadat Moosavi**. [How to Leverage Digit Embeddings to Represent Numbers?](https://aclanthology.org/2025.coling-main.514/). In Proceedings of the 31st International Conference on Computational Linguistics, pages 7685–7697, Abu Dhabi, UAE. Association for Computational Linguistics.
 
   
