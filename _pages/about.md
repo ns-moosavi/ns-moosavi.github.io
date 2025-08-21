@@ -55,6 +55,15 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 </ul>
 
 
+<h3>Committee roles</h3>
+<ul>
+  <li>EACl 2026: Demonstration co-chair </li>
+  <li>EMNLP 2024: Student volunteer teams co-chair</li>
+  <li>EMNLP 2023: Best paper award committee</li>
+  <li>Standing Reviewer for the Computational Linguistics Journal</li>
+  <li>Editorial Board Member for the Northern European Journal of Language Technology (NEJLT)</li>
+</ul>
+
 <h3>Invited Talks</h3>
 <ul>
   <li>Jan 2025: Language Technology Lab Seminar, University of Cambridge (Between the Lines: Contextual Understanding and Bias in LLMs
@@ -68,12 +77,4 @@ Apart from these, I am interested in coreference resolution and interesting psyc
   <li>Nov 2022: Computer Science Department of Royal Holloway University of London (RHUL)</li>
   <li>Nov 2021: Computer Science Department of Royal Holloway University of London (RHUL)</li>
   
-</ul>
-
-<h3>Other Roles</h3>
-<ul>
-  <li>Student volunteer teams co-chair for EMNLP 2024</li>
-  <li> Best paper award committee for EMNLP 2023</li>
-  <li>Standing Reviewer for the Computational Linguistics Journal</li>
-  <li>Editorial Board Member for the Northern European Journal of Language Technology (NEJLT)</li>
 </ul>
