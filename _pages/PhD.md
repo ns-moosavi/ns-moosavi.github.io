@@ -22,13 +22,15 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Yiqi Liu</strong> (co-supervised with Chenghua Lin)<br>
-    <em>NLG Evaluation</em>
+    <strong>Yiqi Liu</strong><br>
+    <em>NLG Evaluation</em><br>
+    (co-supervised with Chenghua Lin)
   </li>
 
   <li>
-    <strong>Hend TM Elghazaly</strong> (co-supervised with Heidi Christensen)<br>
-    <em>Fairness in Speech Processing</em>
+    <strong>Hend TM Elghazaly</strong><br>
+    <em>Fairness in Speech Processing</em><br>
+    (co-supervised with Heidi Christensen)
   </li>
 
   <li>
@@ -37,8 +39,9 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Maggie Mi</strong> (co-supervised with Aline Villavicencio)<br>
-    <em>Cognitive Modeling of Language</em>
+    <strong>Maggie Mi</strong><br>
+    <em>Cognitive Modeling of Language</em><br>
+    (co-supervised with Aline Villavicencio)
   </li>
 
   <li>
@@ -47,14 +50,16 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Favour Yahdii Aghaebe</strong> (co-supervised with Tanefa A. Apekey and Liz Williams)<br>
-    <em>Enhancing Dietary Guidelines for Older Adults: Leveraging NLP for Inclusive and Evidence-Based Recommendations</em>
+    <strong>Favour Yahdii Aghaebe</strong><br>
+    <em>Enhancing Dietary Guidelines for Older Adults: Leveraging NLP for Inclusive and Evidence-Based Recommendations</em><br>
+    (co-supervised with Tanefa A. Apekey and Liz Williams)
   </li>
 
-<li>
-  <a href="https://scholar.google.com/citations?user=iQvNh-gAAAAJ&hl=en" target="_blank" rel="noopener"><strong>Vynska Amalia Permadi</strong></a><br>
-  <em>Cultural Reasoning</em> (co-supervised with Nikos Aletras)
-</li>
+  <li>
+    <a href="https://scholar.google.com/citations?user=iQvNh-gAAAAJ&hl=en" target="_blank" rel="noopener"><strong>Vynska Amalia Permadi</strong></a><br>
+    <em>Cultural Reasoning</em><br>
+    (co-supervised with Nikos Aletras)
+  </li>
 </ul>
 
 <h2>Former Students</h2>
@@ -65,10 +70,14 @@ author_profile: true
     <a href="https://tuprints.ulb.tu-darmstadt.de/26582/" target="_blank" rel="noopener">Thesis</a><br>
     (co-supervised with Iryna Gurevych; now Research Engineer at Bloomberg)
   </li>
+
   <li>
     <a href="https://huiyinxue.github.io/" target="_blank" rel="noopener"><strong>Huiyin Xue</strong></a><br>
     <em>Efficiency-Focused Transformer Architectures</em><br>
-    (co-supervised with Nikos Aletras; now an upcoming postdoc)
+    (co-supervised with Nikos Aletras; an upcoming postdoc)
   </li>
+</ul>
+
+
 </ul>
 
