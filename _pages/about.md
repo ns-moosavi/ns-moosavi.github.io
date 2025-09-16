@@ -70,7 +70,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 <ul>
   <li>Jan 2025: Language Technology Lab Seminar, University of Cambridge (<a href="https://docs.google.com/presentation/d/1hICX1nK42dtuiGog7U8A2PV4l8QhbOvh4wtAQdIJvmo/edit?usp=sharing">Between the Lines: Contextual Understanding and Bias in LLMs</a>
 )</li>
-  <li>June 2024: 3rd Cardiff NLP Summer Workshop (<a href="{{ "/files/Numbers in the Myth.pdf" | relative_url }}" target="_blank" rel="noopener" class="btn">
+  <li>June 2024: 3rd Cardiff NLP Summer Workshop (<a href="{{ "/files/Numbers_in_the_Myth.pdf" | relative_url }}" target="_blank" rel="noopener" class="btn">
     Numbers in the Mist: Towards Accurate Numerical Understanding in LMs
   </a>)</li> 
   <li>Nov 2023: Cambridge NLP seminar series</li>
