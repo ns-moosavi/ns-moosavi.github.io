@@ -56,7 +56,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 </ul>
 
 
-<h3>Committee roles</h3>
+<h3>Professional Service</h3>
 <ul>
   <li>EACl 2026: Demonstration co-chair </li>
   <li>EMNLP 2024: Student volunteer teams co-chair</li>
