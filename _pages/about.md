@@ -29,6 +29,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 <h3>Senior Area Chair</h3>
 <ul>
+  <li> EACL 2026: Interpretability and Analysis of Models for NLP </li>
   <li>ACL 2025: Ethics, Bias, and Fairness</li>
   <li>COLING 2025: Language Resources and Evaluation</li>
   <li>EMNLP 2024: Special Theme: Efficiency in Model Algorithms, Training, and Inference</li>
@@ -45,7 +46,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 <h3>Workshop Organization</h3>
 <ul>
-  <li>Workshop co-chair for EACL 2024</li>
+<li> Co-organizing the 1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production (<a href="https://sciprodllm.github.io/2025/">SciProdLLM 2025</a>) </li>  
 <li>Co-ordinator and co-organizer of SustaiNLP workshop series: 
   <a href="https://sites.google.com/view/sustainlp2023">SustaiNLP 2023</a>, 
   <a href="https://sites.google.com/view/sustainlp2022">SustaiNLP 2022</a>, 
@@ -59,6 +60,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 <ul>
   <li>EACl 2026: Demonstration co-chair </li>
   <li>EMNLP 2024: Student volunteer teams co-chair</li>
+  <li>EACL 2024: Workshop co-chair</li>
   <li>EMNLP 2023: Best paper award committee</li>
   <li>Standing Reviewer for the Computational Linguistics Journal</li>
   <li>Editorial Board Member for the Northern European Journal of Language Technology (NEJLT)</li>
@@ -66,7 +68,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 <h3>Invited Talks</h3>
 <ul>
-  <li>Jan 2025: Language Technology Lab Seminar, University of Cambridge (Between the Lines: Contextual Understanding and Bias in LLMs
+  <li>Jan 2025: Language Technology Lab Seminar, University of Cambridge (<a href="https://docs.google.com/presentation/d/1hICX1nK42dtuiGog7U8A2PV4l8QhbOvh4wtAQdIJvmo/edit?usp=sharing">Between the Lines: Contextual Understanding and Bias in LLMs</a>
 )</li>
   <li>June 2024: 3rd Cardiff NLP Summer Workshop (Numbers in the Mist: Towards Accurate Numerical Understanding in LMs
 )</li> 
