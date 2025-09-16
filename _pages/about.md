@@ -44,15 +44,21 @@ Apart from these, I am interested in coreference resolution and interesting psyc
   <li>EMNLP 2022 (Efficient Methods for NLP) </li>
 </ul>
 
-<h3>Workshop Organization</h3>
+<h3>Workshop Organisation</h3>
 <ul>
-<li> Co-organizing the 1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production (<a href="https://sciprodllm.github.io/2025/">SciProdLLM 2025</a>) </li>  
-<li>Co-ordinator and co-organizer of SustaiNLP workshop series: 
-  <a href="https://sites.google.com/view/sustainlp2023">SustaiNLP 2023</a>, 
-  <a href="https://sites.google.com/view/sustainlp2022">SustaiNLP 2022</a>, 
-  <a href="https://sites.google.com/view/sustainlp2021">SustaiNLP 2021</a>, 
-  <a href="https://sites.google.com/view/sustainlp2020">SustaiNLP 2020</a>
-</li>
+  <li>
+    Co-organiser, <a href="https://sciprodllm.github.io/2025/" target="_blank" rel="noopener">1st Workshop on Human–LLM Collaboration for Ethical and Responsible Science Production (SciProdLLM 2025)</a>
+  </li>
+  <li>
+    Coordinator and co-organiser of the SustaiNLP Workshop Series:
+    <a href="https://sites.google.com/view/sustainlp2023" target="_blank" rel="noopener">SustaiNLP 2023</a>,
+    <a href="https://sites.google.com/view/sustainlp2022" target="_blank" rel="noopener">SustaiNLP 2022</a>,
+    <a href="https://sites.google.com/view/sustainlp2021" target="_blank" rel="noopener">SustaiNLP 2021</a>,
+    <a href="https://sites.google.com/view/sustainlp2020" target="_blank" rel="noopener">SustaiNLP 2020</a>
+  </li>
+  <li>
+    Local organiser, <a href="https://sites.google.com/view/ellisnlp2021/organization" target="_blank" rel="noopener">1st ELLIS NLP Workshop</a>
+  </li>
 </ul>
 
 
