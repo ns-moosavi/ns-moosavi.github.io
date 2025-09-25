@@ -74,19 +74,24 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 <h3>Invited Talks</h3>
 <ul>
+<li>Sep 2025: Natural Language Processing and Vision (NLPV) Seminars, University of Exeter —
+  <a href="{{ "/files/Robust_Reasoning.pdf" | relative_url }}" target="_blank" rel="noopener">
+    From Framing to False Premises: A Two-Axis View of Robust LLM Reasoning
+  </a>
+</li>
 <li>Jan 2025: Language Technology Lab Seminar, University of Cambridge —
   <a href="{{ "/files/Between_the_Lines.pdf" | relative_url }}" target="_blank" rel="noopener">
-    Between the Lines: Contextual Understanding and Bias in LLMs (PDF)
+    Between the Lines: Contextual Understanding and Bias in LLMs
   </a>
 </li>
 <li>June 2024: 3rd Cardiff NLP Summer Workshop —
   <a href="{{ "/files/Numbers_in_the_Myth.pdf" | relative_url }}" target="_blank" rel="noopener">
-    Numbers in the Mist: Towards Accurate Numerical Understanding in LMs (PDF)
+    Numbers in the Mist: Towards Accurate Numerical Understanding in LMs
   </a>
 </li>
   <li>Nov 2023: Cambridge NLP seminar series —
   <a href="{{ "/files/Numerical_Reasoning_in_Natural_Language_Processing.pdf" | relative_url }}" target="_blank" rel="noopener">
-    Numerical Reasoning in NLP (PDF)
+    Numerical Reasoning in NLP
   </a>
 </li>
   <li>Oct 2023: OFAI's (Austrian Research Institute for AI) 2023 Fall Lecture Series</li>
