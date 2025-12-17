@@ -22,12 +22,6 @@ author_profile: true
   </li>
 
   <li>
-    <strong>Yiqi Liu</strong><br>
-    <em>NLG Evaluation</em><br>
-    (co-supervised with Chenghua Lin)
-  </li>
-
-  <li>
     <strong>Hend TM Elghazaly</strong><br>
     <em>Fairness in Speech Processing</em><br>
     (co-supervised with Heidi Christensen)
@@ -37,13 +31,18 @@ author_profile: true
     <a href="https://www.researchgate.net/profile/Valeria-Pastorino" target="_blank" rel="noopener"><strong>Valeria Pastorino</strong></a><br>
     <em>Framing Bias Detection</em>
   </li>
-
   <li>
     <strong>Maggie Mi</strong><br>
     <em>Cognitive Modeling of Language</em><br>
     (co-supervised with Aline Villavicencio)
   </li>
-
+  
+  <li>
+    <strong>Joseph James</strong><br>
+    <em>Data-driven and Discourse-aware Scientific Text Generation</em><br>
+    (co-supervised with Chenghua Lin)
+  </li>
+  
   <li>
     <strong>Ian W Kennedy</strong><br>
     <em>Efficient and Accessible Transformer-Based Architectures</em>
@@ -60,6 +59,14 @@ author_profile: true
     <em>Cultural Reasoning</em><br>
     (co-supervised with Nikos Aletras)
   </li>
+
+<li>
+  <strong>Guillaume Bo</strong>
+  <div><em>Enriching function and disability data with NLP</em></div>
+  <div>(co-supervised with Denis Newman-Griffis)</div>
+</li>
+
+  
 </ul>
 
 <h2>Former Students</h2>
