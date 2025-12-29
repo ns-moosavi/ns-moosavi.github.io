@@ -65,10 +65,10 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 <h3>Professional Service</h3>
 <ul>
-  <li>EACl 2026: Demonstration co-chair </li>
-  <li>EMNLP 2024: Student volunteer teams co-chair</li>
-  <li>EACL 2024: Workshop co-chair</li>
-  <li>EMNLP 2023: Best paper award committee</li>
+  <li>Demonstration co-chair: EACl 2026</li>
+  <li>Workshop co-chair: EACL 2024</li>
+  <li>Student volunteer co-chair: EMNLP 2026, EMNLP 2024</li>
+  <li>Best paper award committee: EMNLP 2023</li>
   <li>Standing Reviewer for the Computational Linguistics Journal</li>
   <li>Editorial Board Member for the Northern European Journal of Language Technology (NEJLT)</li>
 </ul>
