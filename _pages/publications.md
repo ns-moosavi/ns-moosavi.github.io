@@ -4,6 +4,13 @@ title: "Publications"
 permalink: /publications/
 author_profile: true
 ---
+**2026**
+- Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, **Nafise Sadat Moosavi**, Wei Zhao, Tristan Miller. 2026. [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation
+](https://arxiv.org/abs/2502.05151). ACM Computing Surveys.
+- Maggie Mi, Golzar Atefi, Atsuki Yamaguchi, Felix Gers, Aline Villavicencio, **Nafise Sadat Moosavi**. 2026. Rethinking the Idiomaticity Decomposability Hypothesis: Evidence from Distributional Learning. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics.
+- Joseph James, Chenghao Xiao, Yucheng Li, **Nafise Sadat Moosavi**, Chenghua Lin. 2026. [RIGOURATE: Quantifying Scientific Exaggeration with Evidence-Aligned Claim Evaluation](https://arxiv.org/abs/2601.04350). In Findings of the Association for Computational Linguistics: ACL 2026.
+
+
 **2025**
 - Favour Y. Aghaebe, Elizabeth A Williams, Tanefa Apekey, **Nafise Sadat Moosavi**. 2025. [LLMs Do Not See Age: Assessing Demographic Bias in Automated Systematic Review Synthesis](https://arxiv.org/abs/2511.06000).  International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025).
 - Xiao Wang, Daniil Larionov, Siwei Wu, Yiqi Liu, Steffen Eger, **Nafise Sadat Moosavi**, Chenghua Lin. 2025. [ContrastScore: Towards Higher Quality, Less Biased, More Efficient Evaluation Metrics with Contrastive Evaluation](https://arxiv.org/abs/2504.02106). International Joint Conference on Natural Language Processing & Asia-Pacific Chapter of the Association for Computational Linguistics (AACL 2025).
