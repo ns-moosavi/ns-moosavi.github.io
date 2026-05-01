@@ -29,6 +29,7 @@ Apart from these, I am interested in coreference resolution and interesting psyc
 
 <h3>Senior Area Chair</h3>
 <ul>
+  <li> EMNLP 2026: Ethics, Bias, and Fairness </li>
   <li> ACL 2026: Ethics, Bias, and Fairness </li>
   <li> EACL 2026: Interpretability and Analysis of Models for NLP </li>
   <li>ACL 2025: Ethics, Bias, and Fairness</li>
