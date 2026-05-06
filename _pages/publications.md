@@ -7,8 +7,10 @@ author_profile: true
 **2026**
 - Steffen Eger, Yong Cao, Jennifer D'Souza, Andreas Geiger, Christian Greisinger, Stephanie Gross, Yufang Hou, Brigitte Krenn, Anne Lauscher, Yizhi Li, Chenghua Lin, **Nafise Sadat Moosavi**, Wei Zhao, Tristan Miller. 2026. [Transforming Science with Large Language Models: A Survey on AI-assisted Scientific Discovery, Experimentation, Content Generation, and Evaluation
 ](https://arxiv.org/abs/2502.05151). ACM Computing Surveys.
+- Vynska Amalia Permadi, Xingwei Tan, **Nafise Sadat Moosavi**, Nikos Aletras. 2026. [No Shortcuts to Culture: Indonesian Multi-hop Question Answering for Complex Cultural Understanding](https://arxiv.org/abs/2602.03709). Transactions of the Association for Computational Linguistics
 - Maggie Mi, Golzar Atefi, Atsuki Yamaguchi, Felix Gers, Aline Villavicencio, **Nafise Sadat Moosavi**. 2026. Rethinking the Idiomaticity Decomposability Hypothesis: Evidence from Distributional Learning. In Proceedings of the 64th Annual Meeting of the Association for Computational Linguistics.
 - Joseph James, Chenghao Xiao, Yucheng Li, **Nafise Sadat Moosavi**, Chenghua Lin. 2026. [RIGOURATE: Quantifying Scientific Exaggeration with Evidence-Aligned Claim Evaluation](https://arxiv.org/abs/2601.04350). In Findings of the Association for Computational Linguistics: ACL 2026.
+- Danilo Croce, Jochen Leidner, **Nafise Sadat Moosavi**. 2026. [Proceedings of the 19th Conference of the European Chapter of the Association for Computational Linguistics (Volume 3: System Demonstrations)](https://aclanthology.org/2026.eacl-demo.0/). Association for Computational Linguistics, Rabat, Marocco.
 
 
 **2025**
