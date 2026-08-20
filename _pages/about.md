@@ -21,16 +21,19 @@ Before joining the University of Sheffield, I was a postdoctoral researcher work
 
 Reseach Interests
 ------
-If you are a self-funded Ph.D. student and would like to work with me, I am interested to work on evaluating and improving (1) fairness & robustness, (2) accessibility, (3) reasoning skills, and (4) efficiency of language models. 
-Apart from these, I am interested in coreference resolution and interesting psycholinguistic analyses of text ot multimodal inputs. 
+My research focuses on evaluating and improving language and foundation models, particularly their fairness and robustness, reasoning capabilities (e.g., math or cultural reasoning), accessibility, and efficiency. A central theme is developing rigorous evaluation methods and benchmarks to understand model capabilities and limitations and build more trustworthy and responsible models. My research also explores AI for Science, as well as multimodal models and linguistically and psycholinguistically informed analyses of model behaviour.
+
+If you are a self-funded PhD student interested in working on these or related topics, please feel free to get in touch.
 
 
 <h2>Academic Service</h2>
 
 <h3>Senior Area Chair</h3>
 <ul>
+  <li> EACL 2027, NAACL 2027 </li>
   <li> EMNLP 2026: Ethics, Bias, and Fairness </li>
-  <li> ACL 2026: Ethics, Bias, and Fairness </li>
+  <li>   ACL 2026 (<a href="https://drive.google.com/file/d/1-Hy8gqhCfpFXihQgKIXWOAAMz_tOT9i4/view?usp=sharing">Outstanding Senior Area Chair Award</a>): Ethics, Bias, and Fairness
+ </li>
   <li> EACL 2026: Interpretability and Analysis of Models for NLP </li>
   <li>ACL 2025: Ethics, Bias, and Fairness</li>
   <li>COLING 2025: Language Resources and Evaluation</li>
