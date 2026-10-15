@@ -27,8 +27,7 @@ I am particularly interested in understanding how models learn, represent, and r
 
 PhD Opportunities (Rare Sightings Only)
 ------
-**Please note:** Any funded PhD opportunities will be explicitly advertised if they become available.
-Due to the large volume of enquiries about funded PhD opportunities, I regret that I am unable to respond to individual emails regarding funding or unadvertised positions. Thank you for your understanding.
+**Please note:** Any funded PhD opportunities will be explicitly advertised here if they become available. I genuinely appreciate the time and effort prospective students put into their emails, especially those who take the time to familiarise themselves with my research and tailor their enquiries accordingly. However, given the overwhelming number of emails academics receive, I regret that I am unable to respond to individual enquiries about funding or unadvertised positions. Please do not interpret a lack of response as a reflection of your qualifications or the quality of your email. Thank you for your understanding.
 
 If you have secured your own funding or are applying for an external scholarship and are interested in working on these or related research topics, please feel free to get in touch with a brief description of your research interests and funding arrangements.
 
