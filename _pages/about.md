@@ -25,7 +25,7 @@ My research focuses on understanding, evaluating, and advancing language and fou
 
 I am particularly interested in understanding how models learn, represent, and reason about information, including numerical, linguistic, and cultural knowledge. I am also interested in exploring new model architectures, training and inference methods, and the development of novel foundation models. My broader research interests include multimodal learning, AI for Science, and linguistically and psycholinguistically informed approaches to understanding model behaviour.
 
-PhD Opportunities
+PhD Opportunities (Rare Sightings Only)
 ------
 **Please note:** Any funded PhD opportunities will be explicitly advertised if they become available.
 Due to the large volume of enquiries about funded PhD opportunities, I regret that I am unable to respond to individual emails regarding funding or unadvertised positions. Thank you for your understanding.
