@@ -21,10 +21,16 @@ Before joining the University of Sheffield, I was a postdoctoral researcher work
 
 Reseach Interests
 ------
-My research focuses on evaluating and improving language and foundation models, particularly their fairness and robustness, reasoning capabilities (e.g., math or cultural reasoning), accessibility, and efficiency. A central theme is developing rigorous evaluation methods and benchmarks to understand model capabilities and limitations and build more trustworthy and responsible models. My research also explores AI for Science, as well as multimodal models and linguistically and psycholinguistically informed analyses of model behaviour.
+My research focuses on understanding, evaluating, and advancing language and foundation models, with particular emphasis on their reasoning capabilities, robustness, fairness, and efficiency. A central theme of my work is developing rigorous evaluation methods and benchmarks to identify model capabilities, limitations, and failure modes, and using these insights to inform the development of more reliable, capable, and responsible models.
 
-If you are a self-funded PhD student interested in working on these or related topics, please feel free to get in touch.
+I am particularly interested in understanding how models learn, represent, and reason about information, including numerical, linguistic, and cultural knowledge. I am also interested in exploring new model architectures, training and inference methods, and the development of novel foundation models. My broader research interests include multimodal learning, AI for Science, and linguistically and psycholinguistically informed approaches to understanding model behaviour.
 
+PhD Opportunities
+------
+**Please note:** Any funded PhD opportunities will be explicitly advertised if they become available.
+Due to the large volume of enquiries about funded PhD opportunities, I regret that I am unable to respond to individual emails regarding funding or unadvertised positions. Thank you for your understanding.
+
+If you have secured your own funding or are applying for an external scholarship and are interested in working on these or related research topics, please feel free to get in touch with a brief description of your research interests and funding arrangements.
 
 <h2>Academic Service</h2>
 
