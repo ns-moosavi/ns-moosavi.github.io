@@ -36,7 +36,7 @@ If you have secured your own funding or are applying for an external scholarship
 <h3>Senior Area Chair</h3>
 <ul>
   <li> EACL 2027, NAACL 2027 </li>
-  <li> EMNLP 2026: Ethics, Bias, and Fairness </li>
+  <li> EMNLP 2026: Ethics, Bias, and Fairness (Outstanding Senior Area Chair Award) </li>
   <li>   ACL 2026 (<a href="https://drive.google.com/file/d/1-Hy8gqhCfpFXihQgKIXWOAAMz_tOT9i4/view?usp=sharing">Outstanding Senior Area Chair Award</a>): Ethics, Bias, and Fairness
  </li>
   <li> EACL 2026: Interpretability and Analysis of Models for NLP </li>
