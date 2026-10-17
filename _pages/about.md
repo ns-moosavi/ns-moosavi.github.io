@@ -25,6 +25,16 @@ My research focuses on understanding, evaluating, and advancing language and fou
 
 I am particularly interested in understanding how models learn, represent, and reason about information, including numerical, linguistic, and cultural knowledge. I am also interested in exploring new model architectures, training and inference methods, and the development of novel foundation models. My broader research interests include multimodal learning, AI for Science, and linguistically and psycholinguistically informed approaches to understanding model behaviour.
 
+Funded Research Projects
+------
+- **Geometric Representations of Uncertainty for Foundation Models**  
+  **Funder:** Royal Society | **Role:** PI (University of Sheffield) | **Duration:** March 2025 – March 2028  
+  **Collaboration:** RIKEN, Japan
+
+- **Evidence-based Rigour Indicator at Scale**  
+  **Funder:** UKRI Metascience Programme | **Role:** PI (University of Sheffield) | **Duration:** September 2026 – August 2027  
+  **Collaborating institutions:** University of Manchester, University of Bath, Open University, University of Strathclyde, IIT Delhi, and Jisc
+
 PhD Opportunities (Rare Sightings Only)
 ------
 **Please note:** Any funded PhD opportunities will be explicitly advertised here if they become available. I genuinely appreciate the time and effort prospective students put into their emails, especially those who take the time to familiarise themselves with my research and tailor their enquiries accordingly. However, given the overwhelming number of emails academics receive, I regret that I am unable to respond to individual enquiries about funding or unadvertised positions. Please do not interpret a lack of response as a reflection of your qualifications or the quality of your email. Thank you for your understanding.
@@ -35,7 +45,7 @@ If you have secured your own funding or are applying for an external scholarship
 
 <h3>Senior Area Chair</h3>
 <ul>
-  <li> EACL 2027, NAACL 2027 </li>
+  <li> EACL 2027, NAACL 2027, ACL 2027 </li>
   <li> EMNLP 2026 (<a href="https://drive.google.com/drive/folders/1w4VqZkYutVm_V9Pjm7cjVYSIMul8UBNP">Outstanding Senior Area Chair Award</a>): Ethics, Bias, and Fairness  </li>
   <li>   ACL 2026 (<a href="https://drive.google.com/file/d/1-Hy8gqhCfpFXihQgKIXWOAAMz_tOT9i4/view?usp=sharing">Outstanding Senior Area Chair Award</a>): Ethics, Bias, and Fairness
  </li>
