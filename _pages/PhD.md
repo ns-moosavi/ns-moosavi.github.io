@@ -80,7 +80,7 @@ author_profile: true
 
   <li>
     <a href="https://huiyinxue.github.io/" target="_blank" rel="noopener"><strong>Huiyin Xue</strong></a><br>
-    <em>Efficiency-Focused Transformer Architectures</em><br>
+    <em> Exploring Efficient Methods for Transformer-based Foundation Language Models </em><br>
     (co-supervised with Nikos Aletras; postdoc at UKP@MBZUAI)
   </li>
 </ul>
